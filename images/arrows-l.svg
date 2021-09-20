@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="30" viewBox="0 0 16 30">
+  <defs>
+    <pattern id="pattern" width="1" height="1" patternTransform="matrix(1, 0, 0, -1, 0, 60)" viewBox="0 0 16 30">
+      <image preserveAspectRatio="none" width="16" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAACWCAYAAABJoA8EAAAAAXNSR0IArs4c6QAABD1JREFUeAHt3L9qFEEcB/CLsVaw8QnsYhAFO/UUxV5s7AQfwMra2PkY9oI+QTSglcYgxioPYGGhmNRyfn/enc4tu3ezt/Pn92/gy87Mzi7ZDzMLSdjZmEwmo1l5hONj5ALyDXmFPEG8LBHYmAE+xZidlnH76LuL/Gg5510QIECacUdLNL7g3E3EEVuQTqHvXkt/2LWNxh5yLuz0+lSAAM9HYFzEmF3EERtYBPih0dfVvIQTbxFHDIToHbiJ9mdkK+hfVj3EyTHi70Qg0Az8jTxAfiIxxZdzoESAVL4iN5DYWUXLeQ8xv5zngLAY9V2aNBP3ENOIISAsHJEQ+pQmIF3rM7GHYBugIyYAdMRIxK4ZOL/cl/NcouO4CpAuc8QOPOqOAaRxjkgKLSUWkC51xIGAjpgA0BEbiH2WcHipL+eZxrqAPhMTADoiBOb/lZt5rn2gv8y8Q85G3qHvKyDytuWHDVnC4U9LILeQX2HnkrqaP4WlAiSrA8QcYkpAk4ipAc0h5gA0hZgL0AxiTkATiLkB1SOWAFSNWApQLWJJQJWIpQHVIdYAVIVYC1ANYk1AFYi1AcUjcgAUjcgFUCwiJ0CRiNwAxSFyBBSFyBVQDCJnQBGI3AHZI0oAZI0oBZAtoiRAlojSANkhSgRkhSgVkA2iZEAWiNIBqyNqAKyKqAWwGqImwCqI2gCLI2oELIqoFbAYombAIojaAbMjWgDMimgFMBuiJcAsiNYAkyNaBEyKaBUwGaJlwCSI1gEHIzogEa73qe4LujDVF+t0Lw3lCh7iDXIm8mGu+wxclPqEJu2ZHfvl/R0HXATs3fIlvEh2GU3a6jl2CV/zGfgfkPD6vP9eYvx7n4FTwDle7LYttO827Xp87DNwNFobj+ytAw7Csw44GM8yYBI8q4DJ8CwCJsWzBpgczxJgFjwrgNnwLABmxdMOmB1PM2ARPK2AxfA0AhbF0wZYHE8TYBU8LYDV8DQAVsWTDlgdTzIgCzypgGzwJAKywpMGyA5PEiBLPCmAbPEkALLG4w7IHo8zoAg8roBi8DgCisLjBigOjxOgSDwugGLxOACKxqsNKB6vJqAKvFqAavBqAKrCKw2oDq8koEq8UoBq8UoAqsbLDageLyegCbxcgGbwcgCawksNaA4vJaBJvFSAZvFSAJrGGwpoHm8IoOORHso6n/w73tRuLUDHC/Co2mcGOl4Drw+g47XgxQI6XgdeDKDjLcFbBeh4K/CWATpeBF4XoONF4rUBOl4PvCag4/XECwG30dhFYvfPO8DYMXKMmC60AeMmBGhDwa1IiX+bD0aOVz2MfpW7j8Ti7WPsGDE/82DwtxDg1Vl91YGW7W0kdovgVfdTcf40nuJ7xJPQsqX9lX3mNbBoBr5u9DWbvmybIkGbAI+QnaAvrH5Ew5dtKNKoEyCVZ8hD5BChcoI8R+j96O88IHSVP0Qh0YZEUZFiAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="Layer_1_copy" data-name="Layer 1 copy" transform="translate(16) rotate(180)">
+    <rect id="Layer_1" data-name="Layer 1" width="16" height="30" transform="translate(0 -30)" fill="url(#pattern)"/>
+  </g>
+</svg>
